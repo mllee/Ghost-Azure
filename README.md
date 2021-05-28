@@ -21,3 +21,5 @@ More info on [Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service
 ## Contributing to the project
 Feedback with improvements and pull requests from the community will be highly appreciated and accepted.
 Please open Pull requests only in the [Ghost-Release-Uploader repository](https://github.com/RadoslavGatev/Ghost-Release-Uploader) as commits to Ghost-Azure are fully automated by it.
+
+test
